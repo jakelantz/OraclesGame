@@ -1,0 +1,2 @@
+# OraclesGame
+Tarot Game
